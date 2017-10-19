@@ -8,7 +8,7 @@ module.exports = { name, height
 
 // Test variables
 if (name === "Susan") {
-  console.log("the name is correct")
+  console.log("The name is correct")
 } else {
   console.log("Expected name is Susan")
 }
